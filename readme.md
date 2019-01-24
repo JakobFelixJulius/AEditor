@@ -1,7 +1,7 @@
-This is AEditor, the Audio Editor and Music Production Software on the Web.
+# This is AEditor, the Audio Editor and Music Production Software on the Web.
 -----
 You can run this Web App online under the following domain (checked 27.8.2015): 
-http://www.kristallkunst.com/online_temp/mosy/AEditor/index.html
+https://jakobsudau.github.io/AEditor/
 -----
 You can also run it offline by opening the index.html in Firefox.
 -----
